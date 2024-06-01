@@ -1,7 +1,7 @@
 databaseChangeLog:
   - changeSet:
       id: create-author
-      author: Master
+      author: Mikhail Semavin
       changes:
         - createTable:
             tableName: author
